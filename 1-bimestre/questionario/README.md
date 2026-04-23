@@ -1,3 +1,5 @@
 # Alunos
-- João Vitor Alves Custodio
-- Carlos Eduardo Ferragut Tosto
+-Gustavo Costa Bastos
+-Laura
+-Rafael Dantas de Oliveira
+-Sarah Aurea B Freitas
