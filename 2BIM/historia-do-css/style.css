@@ -1,0 +1,77 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(135, 80, 238);
+}
+
+.Titulo{
+    height: 130px;
+    color: rgb(58, 11, 102);
+}
+
+#Inicial{
+    font-size: 60px;
+    text-align: center;
+    color: rgb(58, 11, 102);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.texto{
+    height: 100px;
+    color: rgb(58, 11, 102);
+}
+
+#t1{
+    font-size: 35px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.botao {
+    background-color: #007BFF;
+    color: white;
+    padding: 12px 24px;
+    text-decoration: none; /* remove sublinhado */
+    border-radius: 8px;
+    display: inline-block;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .botao:hover {
+    background-color: #0056b3;
+  }
+  .link{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 25vh;
+  }
+  .titulo2{
+    font-size: 25px;
+    color: rgb(58, 11, 102);
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .texto{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 35px;
+  }
+.link2{
+  display: flex;
+  justify-content: center;
+}
+.botao2{
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #007BFF;
+  color: white;
+  padding: 12px 24px;
+  text-decoration: none;
+  border-radius: 8px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.botao2:hover{
+  background-color: #0056b3;
+}
